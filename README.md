@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋 I'm MOHD NASRULLAH
 
-<!--
-**dev-nasrullah/dev-nasrullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Software Engineer passionate about creating robust and scalable web applications. With expertise in React, Next.js, Nest.js, Node.js, TypeScript, and MySQL, I love turning ideas into reality through clean and efficient code.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend: React, Next.js, HTML5, CSS3, JavaScript
+- Backend: Node.js, Express.js, Nest.js
+- Database: MySQL, MongoDB
+- Languages: JavaScript (ES6+), TypeScript
+- Other Tools: Git, Docker, Postman
+- Cloud: AWS, GCP
+
+## 🌱 Currently Learning
+
+I'm always eager to learn and explore new technologies. Currently, I'm focusing on improving my skills in NoSQL Database.
+
+## 📫 Let's Connect
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LinkedIn)](https://www.linkedin.com/in/mohd-nasrullah-941362149/)
+- X: [![Twitter](https://img.shields.io/badge/-X-blue?style=flat-square&logo=X&logoColor=Black&link=X)](https://x.com/@imohdnasrullah)
+
+Feel free to reach out to me! I'm always open to interesting discussions and collaborations.
+
