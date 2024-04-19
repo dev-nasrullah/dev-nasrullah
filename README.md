@@ -18,7 +18,7 @@ I'm always eager to learn and explore new technologies. Currently, I'm focusing 
 ## 📫 Let's Connect
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LinkedIn)](https://www.linkedin.com/in/mohd-nasrullah-941362149/)
-- X: [![Twitter](https://img.shields.io/badge/-X-blue?style=flat-square&logo=X&logoColor=Black&link=X)](https://x.com/@imohdnasrullah)
+- X: [![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=X&logoColor=Black&link=X)](https://x.com/@imohdnasrullah)
 
 Feel free to reach out to me! I'm always open to interesting discussions and collaborations.
 
