@@ -6,9 +6,9 @@ I'm a Full Stack Software Engineer passionate about creating robust and scalable
 
 - Frontend: React, Next.js, HTML5, CSS3, JavaScript
 - Backend: Node.js, Express.js, Nest.js
-- Database: MySQL, MongoDB
+- Database: Postgres, MySQL, MongoDB
 - Languages: JavaScript (ES6+), TypeScript
-- Other Tools: Git, Docker, Postman
+- Other Tools: Git, Docker, Postman, Swagger
 - Cloud: AWS, GCP
 
 ## 🌱 Currently Learning
